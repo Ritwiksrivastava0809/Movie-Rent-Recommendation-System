@@ -61,3 +61,4 @@ This will launch the desktop application. Users can enter their rental history, 
 If you would like to contribute to this project, please create a pull request. We welcome contributions of all kinds, including bug fixes, new features, and improvements to documentation.
 
  
+![image](https://user-images.githubusercontent.com/112408652/218651101-f417e33a-1b3c-4531-821c-955ed7656b9b.png)
